@@ -1,4 +1,7 @@
 # Python-100-Days-of-Code
+Note:The links lead to another github repository which I learned from and thankful for.
+I used these files as it helped me a lot during my coding process.If you want to use my files use below data to find the correct folder
+
 
 Hello, fellow internet human! 👋
 
