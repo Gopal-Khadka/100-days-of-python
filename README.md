@@ -1,15 +1,1 @@
-# 100-days-of-python
-I spent 100 days learning python fro basic to intermediate to advanced and have shared my code and projects here.
-Day 1: ✔️ 
-Day 2: ✔️ 
-Day 3: ✔️ 
-Day 4: ✔️ 
-Day 5: ✔️ 
-Day 6: ✔️ 
-Day 7: ✔️ 
-Day 8: ✔️ 
-Day 9: ✔️ 
-Day 10: ✔️
-Day 11: ✔️ 
-Day 12: ✔️ 
-Day 13: ✔️
+The learnings and projects learned from Angela Yu's Udemy Python Course are uploaded in this repo:
